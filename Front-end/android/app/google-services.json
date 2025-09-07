@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829627508880",
+    "project_id": "acne-scan-332f1",
+    "storage_bucket": "acne-scan-332f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829627508880:android:6a5d78186e908abcfa9015",
+        "android_client_info": {
+          "package_name": "com.example.project_acne_scan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxN2fOm8gZHJPlDK80JDh3a8cIthyfvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
